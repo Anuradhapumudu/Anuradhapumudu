@@ -66,7 +66,7 @@
 ---
 
 ### 📈 GitHub Stats
-<img src="#" alt="Metrics">
+<img src="https://raw.githubusercontent.com/Anuradhapumudu/Pumudu/main/github-metrics.svg" alt="Metrics">
 
 ---
 
