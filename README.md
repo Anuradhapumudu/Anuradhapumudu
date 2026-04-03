@@ -93,11 +93,11 @@ motto: "Build, break, learn, repeat."
 
 <!-- GitHub Stats Card -->
 <a href="https://github.com/Anuradhapumudu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anuradhapumudu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuradhapumudu&theme=github_dark" alt="GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://github.com/Anuradhapumudu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuradhapumudu&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuradhapumudu&theme=github_dark" alt="Top Languages"/>
 </a>
 
 <br/>
