@@ -1,83 +1,180 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/Anuradhapumudu" target="_blank">Pumudu</a> 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Code.+Coffee.+Chaos.;Open+Source+Fanatic.;Full-Stack+Dev+%2B+Student+Life+Combo." alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="#" target="_blank">🌐 Website</a> • 
-  <a href="#">📧 Email</a> • 
-  <a href="#">💼 LinkedIn</a> • 
-  <a href="#" target="_blank">💬 Telegram</a>
-</p>
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Pumudu%20Anuradha&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20UCSC%20Undergraduate%20%7C%20Open%20Source%20Enthusiast&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%92%BB+Building+full-stack+applications;%F0%9F%94%A7+DevOps+%26+Cloud+Infrastructure;%F0%9F%94%92+Security+%26+Networking+Enthusiast;%F0%9F%9A%80+Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
 
-<div align='center'>
-	<img src="https://count.getloli.com/@pumudu?name=pumudu&theme=moebooru&padding=7&offset=0&align=top&scale=2&pixelated=1&darkmode=0&num=245631" alt="Counter" />
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<a href="https://github.com/Anuradhapumudu">
+  <img src="https://komarev.com/ghpvc/?username=Anuradhapumudu&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+&nbsp;
+<a href="https://github.com/Anuradhapumudu?tab=followers">
+  <img src="https://img.shields.io/github/followers/Anuradhapumudu?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="Followers"/>
+</a>
+&nbsp;
+<a href="https://github.com/Anuradhapumudu?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/github/stars/Anuradhapumudu?label=Stars&style=for-the-badge&color=daa520&labelColor=b8860b&logo=github" alt="Stars"/>
+</a>
+
 </div>
 
 ---
 
-### 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🧑‍🎓 Still a student of <a href="https://ucsc.cmb.ac.lk/" style="text-decoration: none;"><abbr title="University of Colombo School of Computing">UCSC </abbr></a>(but that doesn’t stop me from building cool stuff)
-- 🧠 Learning every day – Full-stack, DevOps, Cloud, Security and beyond.
-- 🔭 Currently working on `figuring life out (and some code too)`
-- 💬 Ask me anything tech-related – I'm happy to share what I know!
-- 💡 Motto: *“Build, break, learn, repeat.”*
+```yaml
+name: Pumudu Anuradha
+location: Sri Lanka 🇱🇰
+education: University of Colombo School of Computing (UCSC)
+role: Full-Stack Developer & CS Undergraduate
 
----
+currently_working_on:
+  - Full-Stack Web Applications
+  - Cloud & DevOps Infrastructure
+  - VPN & Networking Systems
 
-### 🛠️ Tech Stack
+interests:
+  - Open Source Development
+  - System Administration
+  - Cybersecurity
+  - UI/UX Design
 
-#### 💻 Programming Languages
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/null/golang.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/node-js.png"/></a>
-<a href="#"><img src="https://img.icons8.com/offices/48/null/php-logo.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/typescript--v2.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/flutter.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/dart.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/c-sharp-logo.png"/></a>
-
-#### 🌐 Web Development
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
-<a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/vue-js.png"/></a>
-<a href="#"><img src="https://img.icons8.com/doodle/48/svetle.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/null/nginx.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/null/bootstrap.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>
-
-#### 🗄️ Databases
-<a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/null/postgreesql.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/null/redis.png"/></a>
-
-#### 🖥️ Operating Systems
-<a href="#"><img src="https://img.icons8.com/fluency/48/null/windows-10.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/android-os.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/null/ubuntu--v1.png"/></a>
-<a href="#"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-arch-linux-composed-of-nonfree-and-open-source-software-logo-color-tal-revivo.png"/></a>
-
+motto: "Build, break, learn, repeat."
+```
 
 ---
 
-### 📈 GitHub Stats
-<img src="https://raw.githubusercontent.com/Anuradhapumudu/Pumudu/main/github-metrics.svg" alt="Metrics">
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,nodejs,php,js,ts,dart,cs,java,c&theme=dark" alt="Languages"/>
+</p>
+
+### 🌐 Frontend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,svelte,flutter,bootstrap,tailwind,nextjs&theme=dark" alt="Frontend"/>
+</p>
+
+### ⚙️ Backend & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=nginx,docker,linux,bash,git,github,vscode&theme=dark" alt="Backend & Infra"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite&theme=dark" alt="Databases"/>
+</p>
+
+### 🖥️ Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</p>
+
+</div>
 
 ---
 
-### 🎵 Now Playing on Spotify
+## 📊 GitHub Analytics
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31dedxdicxsj2jkm33gr4kz2g5iy)
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/Anuradhapumudu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anuradhapumudu&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/Anuradhapumudu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuradhapumudu&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<!-- Streak Stats -->
+<a href="https://github.com/Anuradhapumudu">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuradhapumudu&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak"/>
+</a>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<a href="https://github.com/Anuradhapumudu">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuradhapumudu&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb" alt="Contribution Graph"/>
+</a>
+
+</div>
 
 ---
 
-### 🔗 Connect With Me
+## 📈 Detailed Metrics
 
-<a href="#"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"></a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anuradhapumudu/Anuradhapumudu/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anuradhapumudu&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Anuradhapumudu/Anuradhapumudu/output/github-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/Anuradhapumudu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
+
+<sub>⚡ Built with passion from Sri Lanka 🇱🇰</sub>
+
+</div>
