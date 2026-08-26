@@ -1,8 +1,11 @@
+<!-- ASCII Profile Card — auto-switches with GitHub's dark/light theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Anuradhapumudu's GitHub profile card" src="dark_mode.svg" width="100%" />
+</picture>
+
 <div align="center">
-
-# Pumudu Anuradha
-
-**Full-Stack Developer · CS Undergraduate @ UCSC · Sri Lanka 🇱🇰**
 
 <br/>
 
@@ -96,11 +99,7 @@ motto: "Build, break, learn, repeat."
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Anuradhapumudu&theme=transparent&hide_border=true&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anuradhapumudu&theme=github-compact&hide_border=true&bg_color=00000000&color=70a5fd&line=70a5fd&point=c9d1d9&area=true&area_color=1f6feb" alt="Activity Graph" width="95%" />
+<img src="https://streak-stats.demolab.com?user=Anuradhapumudu&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak Stats"/>
 
 </div>
 
@@ -112,7 +111,7 @@ motto: "Build, break, learn, repeat."
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anuradhapumudu/Anuradhapumudu/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anuradhapumudu/Anuradhapumudu/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Anuradhapumudu/Anuradhapumudu/output/github-snake-dark.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Anuradhapumudu/Anuradhapumudu/output/github-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
