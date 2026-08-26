@@ -99,7 +99,7 @@ motto: "Build, break, learn, repeat."
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Anuradhapumudu&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Anuradhapumudu&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak Stats"/>
 
 </div>
 
