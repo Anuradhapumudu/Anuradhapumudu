@@ -1,0 +1,57 @@
+# Keeps the gh-ascii profile card SVGs up to date
+# The API returns live GitHub stats, so we re-fetch periodically
+name: Update ASCII Profile Card
+
+on:
+  schedule:
+    # Runs daily at 6 AM UTC (11:30 AM IST)
+    - cron: "0 6 * * *"
+  # Also run on push to main (so changes deploy immediately)
+  push:
+    branches: ["main", "master"]
+  # Allow manual trigger from Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-ascii-card:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download dark theme SVG
+        run: |
+          curl -fL "https://gh.crafter.run/Anuradhapumudu?theme=dark&cols=140" -o dark_mode.svg
+          # Validate it's a real SVG
+          if ! head -c 5 dark_mode.svg | grep -q '<svg'; then
+            echo "❌ dark_mode.svg is not a valid SVG"
+            exit 1
+          fi
+          echo "✅ dark_mode.svg downloaded ($(wc -c < dark_mode.svg) bytes)"
+
+      - name: Download light theme SVG
+        run: |
+          curl -fL "https://gh.crafter.run/Anuradhapumudu?theme=light&cols=140" -o light_mode.svg
+          # Validate it's a real SVG
+          if ! head -c 5 light_mode.svg | grep -q '<svg'; then
+            echo "❌ light_mode.svg is not a valid SVG"
+            exit 1
+          fi
+          echo "✅ light_mode.svg downloaded ($(wc -c < light_mode.svg) bytes)"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          # Only commit if files actually changed
+          if git diff --cached --quiet; then
+            echo "ℹ️ No changes detected, skipping commit"
+          else
+            git commit -m "chore: update ASCII profile card SVGs [skip ci]"
+            git push
+            echo "✅ Updated SVGs pushed"
+          fi
